@@ -1,0 +1,47 @@
+#divAdd{
+    width: auto;
+    text-align: center;   
+    padding: 20px; 
+}
+
+.prioridadeBaixa{
+    text-align: center;
+    padding: 10px;
+    color: green;
+    font-size: large;
+    margin-bottom: 20px;
+}
+
+.prioridadeNormal{
+    text-align: center;
+    padding: 10px;
+    font-size: large;
+    color: black;
+}
+
+.prioridadeAlta{
+    text-align: center;
+    padding: 10px;
+    color: red;
+    font-size: large;
+}
+
+.body{
+    border-style: solid;
+    position:absolute;
+    left: 30%;
+    margin-top: 10%;
+}
+
+
+.desc{
+    display: inline;
+}
+
+#titulo{
+    text-align: center;
+    font-size: large;
+    color:chocolate;
+}
+
+
